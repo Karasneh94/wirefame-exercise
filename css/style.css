@@ -1,0 +1,122 @@
+#header{
+background-color: #414141;
+width: 100%;
+height: 100px;
+
+
+}
+
+nav .link{
+    text-decoration: none;
+    color: #FFFFFF;
+    
+}
+
+nav{
+
+    padding-top: 40px;  
+   
+}
+
+.list {
+
+    display: inline;
+    list-style: none;
+    padding: 2%;
+
+}
+
+#logo {
+
+    margin-left: 20%;
+    margin-top: 15px;
+    float: left;
+        
+    }
+    
+/* end of header */
+
+#hero {
+
+margin: 25px;
+margin-left: 20%;
+}
+
+
+#mid {
+    margin-left: 20%;
+}
+
+.mid {
+
+    padding-left: 25px;
+    padding-right: 25px;
+
+
+}
+
+#bot{
+
+    margin-left: 20%;
+    margin-top: 25px;
+    width: 1000px;
+}
+
+#botleft{
+
+    float: left;
+}
+
+#botright{
+float: right;
+width: 480px;
+
+
+}
+
+.both2{
+
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 15px;
+
+}
+
+.para{
+
+    overflow: scroll;
+    height: 305px;
+
+}
+
+.btn {
+    margin-top: 15px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #000000;
+  padding: 8px 15px 8px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+
+.footer{
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #414141;
+    
+    }
+
+    #main{
+
+        position: relative;
+        min-height: 160vh;
+
+    }
